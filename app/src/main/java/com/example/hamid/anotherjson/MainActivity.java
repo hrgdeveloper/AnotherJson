@@ -52,6 +52,7 @@ public class MainActivity extends ActionBarActivity {
     String myJsonResult;
     TextView tv_data;
     ListView listview;
+    int neww ;
     ProgressDialog progressDialog;
 
     movieAdapter adapter;
